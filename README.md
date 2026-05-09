@@ -15,6 +15,7 @@ A Python-based network packet sniffer that captures live traffic, displays sourc
    pip install scapy
    
 **Run**
+
    python network_sniffer.py
    
 **Output**
